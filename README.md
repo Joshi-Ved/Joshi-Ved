@@ -34,7 +34,6 @@ I'm passionate about building clean, responsive, and dynamic web and Android app
 ### 📈 Dynamic GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Joshi-Ved&theme=tokyonight" height="150" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joshi-Ved&theme=tokyo-night" height="150" />
 </div>
 
