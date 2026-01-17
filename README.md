@@ -30,11 +30,13 @@ I'm passionate about building clean, responsive, and dynamic web and Android app
 
 ---
 
-### 📈 GitHub Stats
+
+### 📈 Dynamic GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshi-Ved&layout=compact&theme=cobalt&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Joshi-Ved&show_icons=true&theme=cobalt&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshi-Ved&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Joshi-Ved&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Joshi-Ved&theme=tokyo-night&hide_border=true" height="150" />
 </div>
 
 ---
@@ -47,10 +49,11 @@ I'm passionate about building clean, responsive, and dynamic web and Android app
 
 ---
 
+
 ### 📌 Pinned Repositories
 
-* [PALCOA](https://github.com/Joshi-Ved/Palcoa)
-* [weather_app_flutter](https://github.com/Joshi-Ved/weather_app_flutter)
+* [Linux](https://github.com/Joshi-Ved/Linux)
+* [Savatsya-Gau-Samvardhan](https://github.com/Joshi-Ved/Savatsya-Gau-Samvardhan)
 * [Invest-Mitra](https://github.com/Joshi-Ved/Invest-Mitra)
 
 ---
