@@ -42,7 +42,9 @@ I'm passionate about building clean, responsive, and dynamic web and Android app
 ### 🔥 GitHub Contribution Streak
 
 <div align="center">
-  <img src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Joshi-Ved&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joshi-Ved&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</a>
 </div>
 
 ---
