@@ -37,14 +37,6 @@ I'm passionate about building clean, responsive, and dynamic web and Android app
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joshi-Ved&theme=tokyo-night" height="150" />
 </div>
 
----
-
-### 🔥 GitHub Contribution Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joshi-Ved&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</a>
-</div>
 
 ---
 
