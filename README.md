@@ -1,242 +1,234 @@
-# 🚀 Ved Vivek Joshi
+<div align="center">
 
-<p align="center">
-  <strong>Full-Stack Developer • Android Developer • Tech Enthusiast</strong>
-</p>
+# VED VIVEK JOSHI
 
-<p align="center">
-  <a href="https://github.com/Joshi-Ved">
-    <img src="https://komarev.com/ghpvc/?username=Joshi-Ved&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/Joshi-Ved?tab=followers">
-    <img src="https://img.shields.io/github/followers/Joshi-Ved?label=Followers&style=for-the-badge&color=181717&logo=github" alt="GitHub Followers"/>
-  </a>
-</p>
+### `BUILD • BREAK • LEARN • REPEAT`
 
----
+**Full-Stack Developer · Android · IoT · Databases**
 
-## 👋 About Me
+<br>
 
-Hey! I'm **Ved Vivek Joshi**, a developer who enjoys turning ideas into **clean, responsive, and practical applications**.
-
-I'm interested in building across the **web, Android, backend, databases, and emerging technologies**. I enjoy learning by building projects and experimenting with different tools and technologies.
-
-```text
-💻 Build        →        🧪 Experiment        →        📚 Learn        →        🚀 Improve
-```
-
-* 🔭 Currently building and experimenting with **full-stack applications**
-* 🌱 Continuously learning **new technologies and development practices**
-* 🧩 Interested in **Web Development, Android, Databases & IoT**
-* ⚡ I believe the best way to learn technology is to **build with it**
-* 🎯 Focused on becoming a better developer one project at a time
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Web Development
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
-
-### 🗄️ Database & Backend
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-</p>
-
-### 💻 Programming
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### ⚙️ Tools & Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🐧 Linux
-
-<a href="https://github.com/Joshi-Ved/Linux">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/Joshi-Ved">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/ved-joshi-55610728b/">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:blankstar1233@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<p>
-Linux-based experiments, implementations, and learning resources.
-</p>
+<br><br>
 
-</td>
+<img src="https://komarev.com/ghpvc/?username=Joshi-Ved&label=PROFILE+VIEWS&color=111111&style=for-the-badge" />
 
-<td width="33%" align="center">
-
-### 🌱 Savatsya Gau Samvardhan
-
-<a href="https://github.com/Joshi-Ved/Savatsya-Gau-Samvardhan">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<p>
-A technology-driven project focused on natural and sustainable solutions.
-</p>
-
-</td>
-
-<td width="33%" align="center">
-
-### 📈 Invest-Mitra
-
-<a href="https://github.com/Joshi-Ved/Invest-Mitra">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<p>
-A project exploring financial technology and investment-focused solutions.
-</p>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 📊 GitHub Activity
+# 01 / WHO AM I?
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joshi-Ved&theme=tokyo-night&hide_border=true" width="95%"/>
-</p>
+> **I like building things more than talking about building things.**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joshi-Ved&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshi-Ved&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+I'm **Ved Vivek Joshi**, a developer interested in creating applications that are **useful, scalable, and actually work outside the tutorial.**
 
----
+My journey spans across **web development, Android, backend systems, databases, IoT, and software engineering**.
 
-## 🧠 Currently Learning
+I learn by doing:
 
 ```text
-Frontend Development       ███████████████████░   90%
-Backend Development        ████████████████░░░░   80%
-Databases                  ███████████████░░░░░   75%
-Android Development        █████████████░░░░░░░   65%
-DevOps & Cloud              ██████████░░░░░░░░░░   50%
+IDEA
+  ↓
+BUILD
+  ↓
+BREAK
+  ↓
+DEBUG
+  ↓
+UNDERSTAND
+  ↓
+IMPROVE
+  ↓
+SHIP
 ```
 
-> 💡 **Always learning. Always building. Always improving.**
+Currently focused on becoming a stronger **full-stack developer** while exploring systems, databases, and emerging technologies.
 
 ---
 
-## 🎯 My Developer Journey
+# 02 / THE STACK
 
-```text
-        Learn
-          ↓
-       Practice
-          ↓
-        Build
-          ↓
-      Experiment
-          ↓
-        Deploy
-          ↓
-        Improve
-          ↺
-```
+### DEVELOPMENT
 
-I don't just want to learn technologies — I want to **understand them well enough to build something useful with them.**
+| AREA            | TECHNOLOGIES                                   |
+| --------------- | ---------------------------------------------- |
+| **Frontend**    | HTML · CSS · JavaScript · React · Tailwind CSS |
+| **Backend**     | Node.js                                        |
+| **Programming** | Java · Python · JavaScript                     |
+| **Databases**   | PostgreSQL · MongoDB · Supabase · Neon         |
+| **Systems**     | Linux · Git · GitHub                           |
+| **Automation**  | GitHub Actions                                 |
+| **Other**       | Android · IoT · REST APIs                      |
 
----
-
-## 🤝 Let's Connect
+<br>
 
 <p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,java,python,postgres,mongodb,supabase,linux,git,github&perline=7" />
+
+</p>
+
+---
+
+# 03 / SELECTED WORK
+
+### `01` — LINUX
+
+**Linux experiments, implementations and system-level learning.**
+
+A collection focused on understanding Linux and operating-system concepts through practical work.
+
+→ **[EXPLORE REPOSITORY](https://github.com/Joshi-Ved/Linux)**
+
+---
+
+### `02` — SAVATSYA GAU SAMVARDHAN
+
+**Technology meets sustainability.**
+
+A project built around natural and sustainable solutions, combining technology with a real-world use case.
+
+→ **[EXPLORE REPOSITORY](https://github.com/Joshi-Ved/Savatsya-Gau-Samvardhan)**
+
+---
+
+### `03` — INVEST MITRA
+
+**Making financial technology more approachable.**
+
+A project exploring investment and financial technology through a practical software solution.
+
+→ **[EXPLORE REPOSITORY](https://github.com/Joshi-Ved/Invest-Mitra)**
+
+---
+
+# 04 / GITHUB
+
+<div align="center">
+
+### CONTRIBUTIONS
+
+<img src="https://ghchart.rshah.org/Joshi-Ved" alt="Ved's GitHub Contribution Graph" width="95%" />
+
+<br><br>
+
+### GITHUB STATS
+
+<img src="https://github-readme-stats.vercel.app/api?username=Joshi-Ved&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Joshi-Ved&hide_border=true&background=00000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=ffffff&dates=777777" width="48%" />
+
+<br><br>
+
+### MOST USED LANGUAGES
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshi-Ved&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=aaaaaa" />
+
+</div>
+
+---
+
+# 05 / CURRENTLY
+
+```text
+LEARNING
+
+▸ Full-Stack Development
+▸ Backend Architecture
+▸ Database Systems
+▸ Data Structures & Algorithms
+▸ Cloud & DevOps
+▸ System Design
+```
+
+```text
+BUILDING
+
+▸ Web Applications
+▸ Android Applications
+▸ Database-driven Systems
+▸ IoT Projects
+▸ Developer Experiments
+```
+
+---
+
+# 06 / HOW I WORK
+
+### 01 — UNDERSTAND
+
+I start with the problem, not the technology.
+
+### 02 — BUILD
+
+Get a working version out quickly.
+
+### 03 — BREAK
+
+Test it. Find what fails. Understand why.
+
+### 04 — IMPROVE
+
+Refactor, optimize and make it better.
+
+### 05 — SHIP
+
+A project sitting on a laptop isn't finished.
+
+---
+
+# 07 / THE PHILOSOPHY
+
+<div align="center">
+
+### DON'T JUST LEARN TECHNOLOGY.
+
+### **BUILD WITH IT.**
+
+<br>
+
+`Curiosity → Experimentation → Failure → Learning → Growth`
+
+</div>
+
+---
+
+# 08 / LET'S CONNECT
+
+<div align="center">
+
+If you're interested in **technology, development, projects, or just building cool things** —
+
+**let's connect.**
+
+<br>
 
 <a href="https://www.linkedin.com/in/ved-joshi-55610728b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:blankstar1233@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://github.com/Joshi-Ved">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</p>
-
----
-## 📊 GitHub Activity & Contributions
-
-### 🔥 Contribution Graph
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Joshi-Ved&theme=tokyo-night&hide_border=true&area=true"
-    width="95%"
-  />
-</p>
-
-### 📈 GitHub Statistics
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Joshi-Ved&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
-    height="180"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Joshi-Ved&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
-
-### 💻 Language Statistics
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshi-Ved&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
+<br><br>
 
 ---
 
-### 🐍 Contribution Snake
+### `MADE WITH CODE, CURIOSITY & TOO MUCH COFFEE.` ☕
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Joshi-Ved/Joshi-Ved/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</p>
-
-
-<p align="center">
-  <i>⭐ If you find something interesting, feel free to explore my repositories!</i>
-</p>
-
-<p align="center">
-  <strong>Made with ❤️ and lots of ☕ by Ved Vivek Joshi</strong>
-</p>
+</div>
