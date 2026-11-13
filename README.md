@@ -16,7 +16,7 @@
 
 ## About
 
-I'm a third-year Information Technology undergrad at VESIT, Mumbai. I like problems that sit between software and the real world: money, food, security and operations.
+I'm a fourth-year Information Technology undergrad at VESIT, Mumbai. I like problems that sit between software and the real world: money, food, security and operations.
 
 - 🐺 My portfolio is a small island you explore as a wolf: **[joshi-ved.github.io](https://joshi-ved.github.io/)**
 - 🛠️ Building now: **yeetcode**, an open-source Rust CLI that clears unused files out of any repo
