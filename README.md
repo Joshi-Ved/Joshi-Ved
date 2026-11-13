@@ -1,234 +1,53 @@
 <div align="center">
 
-# VED VIVEK JOSHI
+# Ved Joshi
 
 ### `BUILD • BREAK • LEARN • REPEAT`
 
-**Full-Stack Developer · Android · IoT · Databases**
+**Full-stack developer building with AI and security · Vice Chairperson, ISTE VESIT · Mumbai**
 
-<br>
-
-<a href="https://github.com/Joshi-Ved">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/ved-joshi-55610728b/">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:blankstar1233@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Joshi-Ved&label=PROFILE+VIEWS&color=111111&style=for-the-badge" />
+<a href="https://joshi-ved.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-ff6b4a?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ved-joshi0304"><img src="https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:blankstar1233@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1b2130?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 ---
 
-# 01 / WHO AM I?
+## About
 
-> **I like building things more than talking about building things.**
+I'm a third-year Information Technology undergrad at VESIT, Mumbai. I like problems that sit between software and the real world: money, food, security and operations.
 
-I'm **Ved Vivek Joshi**, a developer interested in creating applications that are **useful, scalable, and actually work outside the tutorial.**
+- 🐺 My portfolio is a small island you explore as a wolf: **[joshi-ved.github.io](https://joshi-ved.github.io/)**
+- 🛠️ Building now: **yeetcode**, an open-source Rust CLI that clears unused files out of any repo
+- 🤝 Open to hackathon teams
 
-My journey spans across **web development, Android, backend systems, databases, IoT, and software engineering**.
+## Selected work
 
-I learn by doing:
+| Project | What it is | Stack |
+|---|---|---|
+| **[Fooxchange](https://github.com/Joshi-Ved/Fooxchange)** | Recipe platform that finds recipes from the ingredients you have. Food detection runs fully in the browser. | TypeScript · PostgreSQL · Prisma · YOLOv8n · ONNX |
+| **[TRUST](https://github.com/Joshi-Ved/TRUST)** | Blockchain escrow and transparent settlement for influencer marketing. | TypeScript · Smart contracts |
+| **[InvestMitra](https://github.com/Joshi-Ved/InvestMitra)** | Trading simulator to practise without real money. | TypeScript · React · Node.js |
+| **[Savatsya Gau Samvardhan](https://github.com/Joshi-Ved/Savatsya-Gau-Samvardhan)** | E-commerce storefront for a sustainability cause. | MongoDB · Express · React · Node.js |
 
-```text
-IDEA
-  ↓
-BUILD
-  ↓
-BREAK
-  ↓
-DEBUG
-  ↓
-UNDERSTAND
-  ↓
-IMPROVE
-  ↓
-SHIP
-```
+## Toolkit
 
-Currently focused on becoming a stronger **full-stack developer** while exploring systems, databases, and emerging technologies.
-
----
-
-# 02 / THE STACK
-
-### DEVELOPMENT
-
-| AREA            | TECHNOLOGIES                                   |
-| --------------- | ---------------------------------------------- |
-| **Frontend**    | HTML · CSS · JavaScript · React · Tailwind CSS |
-| **Backend**     | Node.js                                        |
-| **Programming** | Java · Python · JavaScript                     |
-| **Databases**   | PostgreSQL · MongoDB · Supabase · Neon         |
-| **Systems**     | Linux · Git · GitHub                           |
-| **Automation**  | GitHub Actions                                 |
-| **Other**       | Android · IoT · REST APIs                      |
-
-<br>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,java,python,postgres,mongodb,supabase,linux,git,github&perline=7" />
-
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,c,kotlin,react,tailwind,nodejs,fastapi,postgres,mongodb,prisma,supabase,pytorch,linux,git,githubactions&perline=9" />
 </p>
 
----
+**Learning now:** system design · cloud and DevOps · Rust
 
-# 03 / SELECTED WORK
+## Beyond the code
 
-### `01` — LINUX
+- 🏆 Top finalist, COMMIT 1.0
+- ⚡ Mumbai Hacks 2025: led system architecture for an agentic-AI hospital demand predictor
+- 🎙️ Hosted a startup-ecosystem podcast at HABITia'25
+- 👥 Lead a 45-member council at ISTE VESIT
 
-**Linux experiments, implementations and system-level learning.**
-
-A collection focused on understanding Linux and operating-system concepts through practical work.
-
-→ **[EXPLORE REPOSITORY](https://github.com/Joshi-Ved/Linux)**
-
----
-
-### `02` — SAVATSYA GAU SAMVARDHAN
-
-**Technology meets sustainability.**
-
-A project built around natural and sustainable solutions, combining technology with a real-world use case.
-
-→ **[EXPLORE REPOSITORY](https://github.com/Joshi-Ved/Savatsya-Gau-Samvardhan)**
-
----
-
-### `03` — INVEST MITRA
-
-**Making financial technology more approachable.**
-
-A project exploring investment and financial technology through a practical software solution.
-
-→ **[EXPLORE REPOSITORY](https://github.com/Joshi-Ved/Invest-Mitra)**
-
----
-
-# 04 / GITHUB
+## GitHub
 
 <div align="center">
-
-### CONTRIBUTIONS
-
-<img src="https://ghchart.rshah.org/Joshi-Ved" alt="Ved's GitHub Contribution Graph" width="95%" />
-
-<br><br>
-
-### GITHUB STATS
-
-<img src="https://github-readme-stats.vercel.app/api?username=Joshi-Ved&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Joshi-Ved&hide_border=true&background=00000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=ffffff&dates=777777" width="48%" />
-
-<br><br>
-
-### MOST USED LANGUAGES
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshi-Ved&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=aaaaaa" />
-
-</div>
-
----
-
-# 05 / CURRENTLY
-
-```text
-LEARNING
-
-▸ Full-Stack Development
-▸ Backend Architecture
-▸ Database Systems
-▸ Data Structures & Algorithms
-▸ Cloud & DevOps
-▸ System Design
-```
-
-```text
-BUILDING
-
-▸ Web Applications
-▸ Android Applications
-▸ Database-driven Systems
-▸ IoT Projects
-▸ Developer Experiments
-```
-
----
-
-# 06 / HOW I WORK
-
-### 01 — UNDERSTAND
-
-I start with the problem, not the technology.
-
-### 02 — BUILD
-
-Get a working version out quickly.
-
-### 03 — BREAK
-
-Test it. Find what fails. Understand why.
-
-### 04 — IMPROVE
-
-Refactor, optimize and make it better.
-
-### 05 — SHIP
-
-A project sitting on a laptop isn't finished.
-
----
-
-# 07 / THE PHILOSOPHY
-
-<div align="center">
-
-### DON'T JUST LEARN TECHNOLOGY.
-
-### **BUILD WITH IT.**
-
-<br>
-
-`Curiosity → Experimentation → Failure → Learning → Growth`
-
-</div>
-
----
-
-# 08 / LET'S CONNECT
-
-<div align="center">
-
-If you're interested in **technology, development, projects, or just building cool things** —
-
-**let's connect.**
-
-<br>
-
-<a href="https://www.linkedin.com/in/ved-joshi-55610728b/">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:blankstar1233@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/Joshi-Ved">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
----
-
-### `MADE WITH CODE, CURIOSITY & TOO MUCH COFFEE.` ☕
-
+<img src="https://ghchart.rshah.org/ff6b4a/Joshi-Ved" alt="Contribution graph" width="95%" />
 </div>
